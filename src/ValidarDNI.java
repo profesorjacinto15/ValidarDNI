@@ -1,5 +1,9 @@
 import javax.swing.JOptionPane;
 
+/**
+ * Clase para Validar DNI
+ */
+
 public class ValidarDNI {
     static final String LETRAS_DNI= "TRWAGMYFPDXBNJZSQVHLCKE";
 
